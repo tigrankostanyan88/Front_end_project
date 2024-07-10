@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all .4s ease;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 15px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+}
+
+button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background: transparent;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+
+img {
+    width: 100%;
+}
+
+ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: #F4F8F9;
+}
